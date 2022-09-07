@@ -11,19 +11,19 @@
  * @param {number} target
  * @return {number[]}
  */
- var twoSum = function(nums, target) {
+var twoSum = function (nums, target) {
   const indexedNums = {};
   for (let i = 0; i < nums.length; i++) {
-      indexedNums[nums[i]] = i;
+    indexedNums[nums[i]] = i;
   }
   let result = [];
   for (let i = 0; i < nums.length; i++) {
-      const complement = target-nums[i];
-      const complementIndex = indexedNums[complement]; 
-      if( complementIndex !== undefined && complementIndex !== i) {
-          result = [i, complementIndex];
-          break;
-      }
+    const complement = target - nums[i];
+    const complementIndex = indexedNums[complement];
+    if (complementIndex !== undefined && complementIndex !== i) {
+      result = [i, complementIndex];
+      break;
+    }
   }
   return result;
 };

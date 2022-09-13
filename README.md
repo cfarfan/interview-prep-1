@@ -159,7 +159,7 @@
 ## Binary Search
 
 - [x] [Binary Search](https://leetcode.com/problems/binary-search/)
-- [ ] [First Bad Version](https://leetcode.com/problems/first-bad-version/)
+- [x] [First Bad Version](https://leetcode.com/problems/first-bad-version/)
 - [ ] [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
 - [ ] [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)
 - [ ] [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)

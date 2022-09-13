@@ -121,7 +121,7 @@
 ## Stack
 
 - [x] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
-- [ ] [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)
+- [x] [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)
 - [ ] [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)
 - [ ] [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation)
 - [ ] [Min Stack](https://leetcode.com/problems/min-stack/)

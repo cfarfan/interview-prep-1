@@ -219,7 +219,7 @@
 
 ## Hash Table
 
-- [ ] [Ransom Note](https://leetcode.com/problems/ransom-note/)
+- [x] [Ransom Note](https://leetcode.com/problems/ransom-note/)
 - [ ] [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)
 - [ ] [First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
 

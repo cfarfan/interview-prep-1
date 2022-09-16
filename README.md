@@ -92,7 +92,7 @@
 
 - [x] [Merge Two Lists](https://leetcode.com/problems/merge-two-lists/)
 - [x] [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
-- [ ] [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
+- [x] [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
 - [ ] [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
 - [ ] [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
 - [ ] [LRU Cache](https://leetcode.com/problems/lru-cache/)

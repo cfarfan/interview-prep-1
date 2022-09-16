@@ -4,7 +4,7 @@
 
 - [x] [Two Sum](https://leetcode.com/problems/two-sum/)
 - [x] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
-- [ ] [Majority Element](https://leetcode.com/problems/majority-element/)
+- [x] [Majority Element](https://leetcode.com/problems/majority-element/)
 - [ ] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 - [ ] [Move Zeroes](https://leetcode.com/problems/move-zeroes/)
 - [ ] [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)

@@ -174,7 +174,7 @@
 - [x] [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
 - [x] [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)
 - [x] [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree)
-- [ ] [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
+- [x] [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 - [ ] [Same Tree](https://leetcode.com/problems/same-tree/)
 - [ ] [Symmetric Tree](https://leetcode.com/problems/symmetric-tree)
 - [ ] [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)

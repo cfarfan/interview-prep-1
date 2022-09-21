@@ -109,7 +109,7 @@
 
 ## Matrix
 
-- [ ] [01 Matrix](https://leetcode.com/problems/01-matrix/)
+- [x] [01 Matrix](https://leetcode.com/problems/01-matrix/)
 - [ ] [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
 - [ ] [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)
 - [ ] [Rotate Image](https://leetcode.com/problems/rotate-image/)
@@ -240,7 +240,7 @@
 
 ## Recursion
 
-- [ ] [Permutations](https://leetcode.com/problems/permutations/)
+- [x] [Permutations](https://leetcode.com/problems/permutations/)
 - [ ] [Subsets](https://leetcode.com/problems/subsets/)
 - [ ] [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
 - [ ] [Next Permutation](https://leetcode.com/problems/next-permutation/)

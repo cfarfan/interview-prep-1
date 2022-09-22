@@ -8,7 +8,7 @@
 - [x] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 - [ ] [Move Zeroes](https://leetcode.com/problems/move-zeroes/)
 - [ ] [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
-- [ ] [3Sum](https://leetcode.com/problems/3sum/)
+- [x] [3Sum](https://leetcode.com/problems/3sum/)
 - [ ] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
 - [ ] [Combination Sum](https://leetcode.com/problems/combination-sum/)
 - [ ] [Sort Colors](https://leetcode.com/problems/sort-colors)

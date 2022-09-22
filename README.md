@@ -178,7 +178,7 @@
 - [ ] [Same Tree](https://leetcode.com/problems/same-tree/)
 - [ ] [Symmetric Tree](https://leetcode.com/problems/symmetric-tree)
 - [ ] [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)
-- [ ] [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
+- [x] [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
 - [ ] [Search in Rotated Array](https://leetcode.com/problems/search-in-rotated-array/)
 - [ ] [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
 - [ ] [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)

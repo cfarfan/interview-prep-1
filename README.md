@@ -56,7 +56,7 @@
 
 - [x] [Flood Fill](https://leetcode.com/problems/flood-fill/)
 - [x] [Clone Graph](https://leetcode.com/problems/clone-graph/)
-- [ ] [Course Schedule](https://leetcode.com/problems/course-schedule/)
+- [x] [Course Schedule](https://leetcode.com/problems/course-schedule/)
 - [ ] [Number of Islands](https://leetcode.com/problems/number-of-islands/)
 - [ ] [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)
 - [ ] [Accounts Merge](https://leetcode.com/problems/accounts-merge/)

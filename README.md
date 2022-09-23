@@ -9,7 +9,7 @@
 - [ ] [Move Zeroes](https://leetcode.com/problems/move-zeroes/)
 - [ ] [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
 - [x] [3Sum](https://leetcode.com/problems/3sum/)
-- [ ] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
+- [x] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
 - [ ] [Combination Sum](https://leetcode.com/problems/combination-sum/)
 - [ ] [Sort Colors](https://leetcode.com/problems/sort-colors)
 - [ ] [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)

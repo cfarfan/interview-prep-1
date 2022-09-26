@@ -1,4 +1,10 @@
 /**
+ * time: O(n)
+ * space: O(n)
+ * approach:
+ * Use DFS and pass a valid range to compare the node.val with.
+ */
+/**
  * Definition for a binary tree node.
  * function TreeNode(val, left, right) {
  *     this.val = (val===undefined ? 0 : val)

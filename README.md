@@ -80,7 +80,7 @@
 
 - [ ] [Meeting Rooms (Leetcode Premium)](https://leetcode.com/problems/meeting-rooms/)
 - [x] [Insert Interval](https://leetcode.com/problems/insert-interval/)
-- [ ] [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
+- [x] [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
 - [ ] [Meeting Rooms II (Leetcode Premium)](https://leetcode.com/problems/meeting-rooms-ii/)
 - [ ] [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)
 - [ ] [Employee Free Time](https://leetcode.com/problems/employee-free-time/)

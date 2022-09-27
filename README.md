@@ -160,6 +160,7 @@
 
 - [x] [Binary Search](https://leetcode.com/problems/binary-search/)
 - [x] [First Bad Version](https://leetcode.com/problems/first-bad-version/)
+- [x] [Search in Rotated Array](https://leetcode.com/problems/search-in-rotated-array/)
 - [ ] [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
 - [ ] [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)
 - [ ] [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
@@ -179,7 +180,6 @@
 - [ ] [Symmetric Tree](https://leetcode.com/problems/symmetric-tree)
 - [ ] [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)
 - [x] [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
-- [ ] [Search in Rotated Array](https://leetcode.com/problems/search-in-rotated-array/)
 - [ ] [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
 - [ ] [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)
 - [ ] [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)

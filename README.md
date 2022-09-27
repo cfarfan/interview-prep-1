@@ -59,7 +59,7 @@
 - [x] [Number of Islands](https://leetcode.com/problems/number-of-islands/)
 - [x] [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)
 - [ ] [Accounts Merge](https://leetcode.com/problems/accounts-merge/)
-- [ ] [Word Search](https://leetcode.com/problems/word-search/)
+- [x] [Word Search](https://leetcode.com/problems/word-search/)
 - [ ] [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/)
 - [ ] [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)
 - [ ] [Shortest Path to Get Food (Leetcode Premium)](https://leetcode.com/problems/shortest-path-to-get-food/)

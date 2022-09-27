@@ -58,7 +58,7 @@
 - [x] [Clone Graph](https://leetcode.com/problems/clone-graph/)
 - [x] [Course Schedule](https://leetcode.com/problems/course-schedule/)
 - [x] [Number of Islands](https://leetcode.com/problems/number-of-islands/)
-- [ ] [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)
+- [x] [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)
 - [ ] [Accounts Merge](https://leetcode.com/problems/accounts-merge/)
 - [ ] [Word Search](https://leetcode.com/problems/word-search/)
 - [ ] [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/)

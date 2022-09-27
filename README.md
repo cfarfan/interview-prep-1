@@ -10,7 +10,6 @@
 - [ ] [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
 - [x] [3Sum](https://leetcode.com/problems/3sum/)
 - [x] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
-- [ ] [Combination Sum](https://leetcode.com/problems/combination-sum/)
 - [ ] [Sort Colors](https://leetcode.com/problems/sort-colors)
 - [ ] [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
 - [ ] [Gas Station](https://leetcode.com/problems/gas-station/)
@@ -241,6 +240,7 @@
 ## Recursion
 
 - [x] [Permutations](https://leetcode.com/problems/permutations/)
+- [x] [Combination Sum](https://leetcode.com/problems/combination-sum/)
 - [ ] [Subsets](https://leetcode.com/problems/subsets/)
 - [ ] [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
 - [ ] [Next Permutation](https://leetcode.com/problems/next-permutation/)
